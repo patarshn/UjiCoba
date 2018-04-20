@@ -3,7 +3,7 @@ using namespace std;
 
 
 /*
-
+---------Baru
 Mami~~
 	Buatlah sebuah fungsi dengan nama tambah untuk menjumlahkan 2 buah bilangan
 	Buatlah sebuah fungsi dengan nama kali untuk mengkalikan 2 buah bilangan 
