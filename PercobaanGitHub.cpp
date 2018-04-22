@@ -16,9 +16,14 @@ Brenda
 NB	: Hanya fungsi...
 */
 	
-
-
+#include<iostream>
+using namespace std;
+int kurang(int a, int b){
+	int jumlah=a-b;
+	return jumlah;}
+int kali(int a, int b){
+	int jumlah=a*b;
+	return jumlah;}
 int main(){
-	
 	
 }
